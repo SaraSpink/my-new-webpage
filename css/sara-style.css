@@ -1,0 +1,23 @@
+h1 {
+  color: #339999;
+  font-weight: bolder;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  color: #339999;
+  text-align: center;
+  font-family: cursive;
+}
+
+ul {
+  color: #339999;
+  font-family: cursive;
+  font-size: 20px;
+  line-height: 25px;
+}
